@@ -1,7 +1,7 @@
 # Python-Basics  
 # Python Dictionary Methods Example
 
-This repository contains an example of how various dictionary methods work in Python. Below is a breakdown of each method applied to a dictionary.
+This file contains an example of how various dictionary methods work in Python. Below is a breakdown of each method applied to a dictionary.
 
 ## Dictionary Methods and Their Usage
 

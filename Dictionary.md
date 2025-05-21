@@ -1,4 +1,13 @@
 # Python-Basics  
+# Python Dictionary Methods
+
+## 🧠 What is a Dictionary in Python?
+
+A **dictionary** in Python is an **unordered**, **mutable** collection of **key-value pairs**. It allows you to store, retrieve, and manipulate data efficiently by using keys to access values.
+
+- Keys must be **unique** and **immutable** (e.g., strings, numbers, tuples).
+- Values can be of **any data type**, and they can be duplicated.
+- 
 # Python Dictionary Methods Example
 
 This file contains an example of how various dictionary methods work in Python. Below is a breakdown of each method applied to a dictionary.

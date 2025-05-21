@@ -1,0 +1,20 @@
+
+# 🐍 Python Dictionary: A Complete Beginner's Guide
+
+Welcome to the ultimate guide to **Python dictionaries**!  
+This repo covers everything from the **very basics** to all **important methods**, with **simple examples**, definitions, and real-world use cases.
+
+---
+
+## 📘 What is a Dictionary?
+
+A dictionary in Python is a **collection of key-value pairs**.  
+Each key is unique and maps to a value.
+
+```python
+# Example
+person = {
+    "name": "Alice",
+    "age": 30,
+    "city": "New York"
+}
